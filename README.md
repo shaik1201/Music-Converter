@@ -1,6 +1,6 @@
 # music_converter
 Spotify premium trial is over? <br> Download your favourite playlist's songs to your computer.
-I've used the spotify API to take a playlist from my spotify account and download the songs in it to my computer as mp3/mp4 files.
+I used the spotify API to take a playlist from my spotify account and download the songs in it to my computer as mp3/mp4 files.
 
 How it looks like:
 ![image](https://user-images.githubusercontent.com/81320956/187393671-9980e102-6db1-4763-ac5d-8b7aa803ff11.png)
