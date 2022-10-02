@@ -14,6 +14,6 @@ Follow this:
 and when you press the ctrl button the playlist's uri will be shown, copy it and past it in app.py on line 29.
 Now run the script and follow the link you see in the teminal. Hit the download button and the songs will be downloaded to your downloads dir in a folder called songs.
 
-**NOTE**: you need spotify credentials so it would be able to access your account. Go in [here](https://developer.spotify.com/) and create your token.
+**NOTE**: you need spotify credentials so it would be able to access your account. Go in [here](https://developer.spotify.com/) and create your credentials.
 
 
